@@ -6,13 +6,13 @@ body:
   - type: markdown
     attributes:
       value: |
-        By submitting this Issue you give DataCrafter Software Labs the contribution licence in [CONTRIBUTING.md](https://github.com/nick2468/datacrafter-community/blob/main/CONTRIBUTING.md#contribution-licence). You keep your copyright.
+        By submitting this Issue you give DataCrafter Software Labs the contribution licence in [CONTRIBUTING.md](https://github.com/DataCrafter-SL/datacrafter-community/blob/main/CONTRIBUTING.md#contribution-licence). You keep your copyright.
 
         Thank you. A report written to this form is most of what an AI agent needs to fix the bug, so please fill in every section.
 
-        Screenshots follow the content rules in [CONTRIBUTING.md](https://github.com/nick2468/datacrafter-community/blob/main/CONTRIBUTING.md#content-rules-for-screenshots-and-clips): the Demo instance or made-up data only, and no keys, tokens, URLs with credentials or internal hostnames.
+        Screenshots follow the content rules in [CONTRIBUTING.md](https://github.com/DataCrafter-SL/datacrafter-community/blob/main/CONTRIBUTING.md#content-rules-for-screenshots-and-clips): the Demo instance or made-up data only, and no keys, tokens, URLs with credentials or internal hostnames.
 
-        Security problems never go in an Issue. See [SECURITY.md](https://github.com/nick2468/datacrafter-community/blob/main/SECURITY.md).
+        Security problems never go in an Issue. See [SECURITY.md](https://github.com/DataCrafter-SL/datacrafter-community/blob/main/SECURITY.md).
   - type: input
     id: version
     attributes:

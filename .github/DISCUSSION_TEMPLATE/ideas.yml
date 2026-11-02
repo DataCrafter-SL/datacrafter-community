@@ -2,7 +2,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        By submitting this Discussion you give DataCrafter Software Labs the contribution licence in [CONTRIBUTING.md](https://github.com/nick2468/datacrafter-community/blob/main/CONTRIBUTING.md#contribution-licence). You keep your copyright.
+        By submitting this Discussion you give DataCrafter Software Labs the contribution licence in [CONTRIBUTING.md](https://github.com/DataCrafter-SL/datacrafter-community/blob/main/CONTRIBUTING.md#contribution-licence). You keep your copyright.
 
         Share an idea or a concept for DataCrafter. Plain words are fine. The founder may turn your post into a concept file in concepts/, credited to you, and it counts as your first contribution.
 
