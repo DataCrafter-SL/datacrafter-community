@@ -11,12 +11,11 @@ order, with no GitHub knowledge needed.
 
 ## How a contribution becomes a change
 
-DataCrafter is built by AI from specifications written by people and AI together. People
-conceived it. People and AI specified it. AI wrote the code. So every change starts from a
-written specification, and an AI agent builds from it.
+Every change to DataCrafter starts as a written specification, and the change is built
+from it.
 
-That is why a well-written report goes a long way here: it is most of what a build needs
-already. What to send:
+That is why a well-written report goes a long way here: it is most of what a specification
+needs already. What to send:
 
 - a bug described well enough to reproduce,
 - an enhancement idea that states the problem first,

@@ -8,12 +8,11 @@ order, with no GitHub knowledge needed.
 
 ## Welcome, and credited
 
-DataCrafter is built by AI from specifications written by people and AI together. This
-repository is where bug reports, enhancement ideas, concepts, specification changes and
+This repository is where bug reports, enhancement ideas, concepts, specification changes and
 showcase entries arrive, and they are credited.
 
-Every change to DataCrafter starts from a written specification, and an AI agent builds
-from that. A bug report written to the form is most of what that agent needs already.
+Every change to DataCrafter starts from a written specification, and the change is built
+from that. A bug report written to the form is most of what a fix needs already.
 That is why the forms ask for what they ask for.
 
 The product source is not public yet, so this repository holds no product code and there

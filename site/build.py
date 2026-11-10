@@ -493,7 +493,6 @@ def page(title, body, prefix="", head=""):
 </main>
 <footer><div class="wrap">
   <p>Entries are shown with their makers' permission and credited to them.
-  DataCrafter is built by AI from specifications written by people and AI together.
   <a href="{COMMUNITY_PAGE_URL}">Help shape what comes next.</a></p>
   <p><a href="{HOME_URL}">Back to www.datacrafter.net</a></p>
 </div></footer>

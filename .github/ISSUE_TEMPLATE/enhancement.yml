@@ -8,7 +8,7 @@ body:
       value: |
         By submitting this Issue you give DataCrafter Software Labs the contribution licence in [CONTRIBUTING.md](https://github.com/DataCrafter-SL/datacrafter-community/blob/main/CONTRIBUTING.md#contribution-licence). You keep your copyright.
 
-        Thank you. Please describe the problem before the proposal. A clear problem is worth more than a detailed solution, because the founder and the AI agents can often find a better fit for it once they understand it.
+        Thank you. Please describe the problem before the proposal. A clear problem is worth more than a detailed solution, because the founder can often find a better fit for it once they understand it.
 
         A larger idea, or a change to a specification, can go to Ideas in Discussions, or to concepts/ as a pull request, instead. See [CONTRIBUTING.md](https://github.com/DataCrafter-SL/datacrafter-community/blob/main/CONTRIBUTING.md#propose-a-concept-or-a-specification-change).
   - type: textarea
