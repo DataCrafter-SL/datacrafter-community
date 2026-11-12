@@ -9,6 +9,10 @@ media:
     alt: "The report's trend chart, opened in Microsoft Excel: the Harper household's cash, debt and net position each day from 15 July to 11 November 2026. Cash is a teal line rising from about 60,000 to 82,000 dollars, debt a red line near 415,000, and net position the thickest dark line, rising from about minus 355,000 to minus 335,000. Dates are labelled a fortnight apart."
   - file: 02-spending-in-excel.png
     alt: "The report's spending chart, opened in Microsoft Excel: for Essentials, Lifestyle and Fees, this month's spending so far as a dark column beside the average of the three months before as a grey one. Essentials is about 4,000 dollars against an average of about 6,000."
+  - file: 03-report-in-the-web-client.png
+    alt: "The report open in DataCrafter's web client on the Demo server, run of 12 November 2026. On the left, this month's spending by category against the three-month average: 6,474 dollars so far against 9,252. On the right, the net position: cash 82,391 dollars, debt 417,098 dollars, net position minus 334,707 dollars, and each account's balance at Coral Bank and Southern Mutual."
+  - file: 04-trend-in-the-web-client.png
+    alt: "The same report in the web client, scrolled to the trend: one row a day of cash, debt and net position beside the chart 'Net position, last 120 days', with cash in teal, debt in red and net position as the thickest dark line."
 ---
 Open banking apps read a household's accounts and transactions in the Consumer Data Right
 shape and copy them into a spreadsheet. That shows today. This showcase keeps every day: each
@@ -33,5 +37,6 @@ Balances are never generated: each one is the opening balance plus every transac
 day, and figures computed outside DataCrafter match every number in the report.
 
 The charts are real Excel charts inside the report's workbook. These two pictures are the run of
-11 November, downloaded and opened in Microsoft Excel. Each morning at 7 the Scheduler generates
+11 November, downloaded and opened in Microsoft Excel. The last two show the run of 12 November in DataCrafter's
+web client, on the Demo server. Each morning at 7 the Scheduler generates
 the new day and stores the day's report.
